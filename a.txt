@@ -2,3 +2,4 @@
 456789
 cc change 01
 master change
+conflict
