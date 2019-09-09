@@ -32,6 +32,8 @@ public class Lock8 {
 		Phone phone = new Phone();//this01
         Phone phone2 = new Phone();//this02
 	system.out.println("你好,这里是git")
+	system.out.println("这里是github");
+
         new Thread(() -> {
             try
             {
