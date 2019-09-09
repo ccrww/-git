@@ -31,7 +31,7 @@ public class Lock8 {
 	public static void main(String[] args) throws Exception {
 		Phone phone = new Phone();//this01
         Phone phone2 = new Phone();//this02
-
+	system.out.println("你好,这里是git")
         new Thread(() -> {
             try
             {
